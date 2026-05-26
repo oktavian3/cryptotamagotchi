@@ -1,0 +1,13 @@
+{
+  "name": "cryptotamagotchi",
+  "version": "1.0.0",
+  "description": "Virtual pet that grows from trading activity on X Layer",
+  "scripts": {
+    "compile": "forge build",
+    "test": "forge test",
+    "deploy": "forge script script/Deploy.s.sol --rpc-url xlayer_testnet --broadcast"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}

@@ -1,0 +1,2 @@
+Created new encrypted keystore file: /root/.foundry/keystores/fcee7cf8-4191-4821-9b6d-0950585c04de
+Address:    0x5883f6E9144EF5BeD7E65ad0D6a6928591F105fb
